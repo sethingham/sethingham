@@ -4,7 +4,7 @@ I'm a full-stack software engineer who loves the craft of building things well a
 
 Laravel is my home base, and I thrive when working on complex problems that demand both technical precision and thoughtful architecture.
 
-
+Check out [my api](https://github.com/sethingham/api) to learn more!
 
 <!--
 **sethingham/sethingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
